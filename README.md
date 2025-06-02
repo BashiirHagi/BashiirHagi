@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
   Docker-based local labs simulating cloud workflows and testing automation scripts
 
 📘 **Courses & Certifications**
-- ✅ *AWS Solutions Architect Associater* 
+- ✅ *AWS Solutions Architect Associate* 
 - ✅ *Hashicorp Terraform Associate*
 - ✅ *Certified Kubernetes Administrator* – In progress (Udemy by Mumshad)
 - ✅ *Linux Security & System Admin* – OverTheWire + Practice Labs
