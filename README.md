@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 ## 🚀 Current Focus
 
-🎯 Strong foundation in the follwoing cloud and DevOps technologies:
+🎯 Strong foundation in the follwoing Cloud and DevOps technologies:
 - **AWS**: Core services, IAM, VPC, and Landing Zones
 - **Terraform**: Infrastructure as Code with modules and best practices
 - **CI/CD**: GitHub Actions & automated workflows
@@ -57,9 +57,9 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname) *(Update this with your link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bashiirhagi) *(Update this with your link)*
 - 🌐 [Portfolio/Blog](https://yourdomain.com) *(Optional if you have one)*
-- 📬 Reach me: [your.email@example.com]
+- 📬 Reach me: [bashiir_20@hotmail.co.uk]
 
 ---
 
