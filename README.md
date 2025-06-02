@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 - Land a role as an **AWS Systems/Cloud Engineer**
 - Contribute to open-source infrastructure tooling
-- Build and document 3+ full-stack infrastructure projects
+- Document & Write blogs/articles
 - Stay consistent and keep learning 🔁
 
 ---
