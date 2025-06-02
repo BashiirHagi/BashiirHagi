@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and consulting space. 
+Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and Tech consulting space. 
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 - Land a role as an **AWS Systems/Cloud Engineer**
 - Contribute to open-source infrastructure tooling
-- Document & Write blogs/articles
+- Document & Write exciting blogs/articles for the community
 - Stay consistent and keep learning 🔁
 
 ---
