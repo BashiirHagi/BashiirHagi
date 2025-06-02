@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bashiirhagi) *(Update this with your link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bashiirhagi) 
 - 📬 Reach me: [bashiir_20@hotmail.co.uk]
 
 ---
