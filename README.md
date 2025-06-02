@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. After a meaningful career break focused on personal growth, I'm diving back into tech — refreshed, focused, and more driven than ever.
+Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. 
 
 ---
 
