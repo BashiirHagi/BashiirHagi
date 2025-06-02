@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. 
+Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and consulting space. 
 
 ---
 
 ## 🚀 Current Focus
 
-🎯 **Re-entering tech** with a strong foundation in:
+🎯 Strong foundation in the follwoing cloud and DevOps technologies:
 - **AWS**: Core services, IAM, VPC, and Landing Zones
 - **Terraform**: Infrastructure as Code with modules and best practices
 - **CI/CD**: GitHub Actions & automated workflows
@@ -32,13 +32,15 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 - 🏗️ **Modular AWS Infra with Terraform**  
   Scalable multi-environment infra setup using remote backends, workspaces, and modules
 
-- 🔄 **CI/CD Pipeline with GitHub Actions**  
+- 🔄 **CI/CD Pipeline with Azure Pipelines, GitHub Actions & Bitbucket Pipelines**  
   Automating builds, tests, and Terraform deploys with approvals and staging
 
 - 🐳 **DevOps Lab Environments**  
   Docker-based local labs simulating cloud workflows and testing automation scripts
 
 📘 **Courses & Certifications**
+- ✅ *AWS Solutions Architect Associater* 
+- ✅ *Hashicorp Terraform Associate*
 - ✅ *Certified Kubernetes Administrator* – In progress (Udemy by Mumshad)
 - ✅ *Linux Security & System Admin* – OverTheWire + Practice Labs
 
