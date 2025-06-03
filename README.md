@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and Tech consulting space. 
+Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and Tech consulting space. 
 
 ---
 
 ## 🚀 Current Focus
 
 🎯 Strong foundation in the follwoing Cloud and DevOps technologies:
-- **AWS**: Core services, IAM, VPC, and Landing Zones
-- **Terraform**: Infrastructure as Code with modules and best practices
+- **AWS**: Core services, IAM, VPC, EC2 and Landing Zones
+- **Terraform**: Infrastructure as Code with Terrafirn modules and best practices
 - **CI/CD**: Azure Pipelines, GitHub Actions, Bitbucket pipelines & automated workflows
 - **Docker & Kubernetes**: Containerization and orchestration
 - **Linux**: System administration & shell scripting
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Tech Stack: 
 
 - **Cloud**: AWS (IAM, EC2, S3, VPC, Route 53, CloudWatch)
 - **IaC**: Terraform, AWS CloudFormation
@@ -48,7 +48,6 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 
 ## 🌱 2025 Goals
 
-- Land a role as an **AWS Systems/Cloud Engineer**
 - Contribute to open-source infrastructure tooling
 - Document & Write exciting blogs/articles for the community
 - Stay consistent and keep learning 🔁
