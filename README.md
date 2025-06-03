@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and high performing cloud infrastructure following industry recognised design principles. Strong professional & technical experience in the Media and Tech consulting sectors. 
+Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and high performing cloud infrastructure following industry recognised design principles. Strong professional & technical experience in the Media and consulting sectors. 
 
 ---
                                                                 ## Let's connect 🤝
