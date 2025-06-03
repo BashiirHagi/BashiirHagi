@@ -3,7 +3,8 @@
 Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and high performing cloud infrastructure following industry recognised design principles. Strong professional & technical experience in the Media and consulting sectors. 
 
 ---
-                                                                ## Let's connect🤝
+
+## Let's connect🤝
 
  <div align="center">
   <a href="https://www.linkedin.com/in/bashiirhagi/" target="_blank">
