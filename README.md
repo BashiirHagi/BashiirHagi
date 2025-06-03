@@ -41,8 +41,7 @@ Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about buildin
 - ✅ *AWS Solutions Architect Associate* 
 - ✅ *Hashicorp Terraform Associate*
 - ✅ *Certified Kubernetes Administrator* – In progress (Udemy by Mumshad)
-- ✅ *Linux Security & System Admin* – OverTheWire + Practice Labs
-
+  
 ---
 
 ## 🌱 2025 Goals
