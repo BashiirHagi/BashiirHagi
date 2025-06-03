@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building reliable, scalable infrastructure with a clean and modular approach. Strong professional experience in the Media and Tech consulting space. 
+Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and performant cloud infrastructure following recognised design principles. Strong professional & technical experience in the Media and Tech consulting industries. 
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about buildin
 
 🔨 **Projects in Progress**
 - 🏗️ **Modular AWS Infra with Terraform**  
-  Scalable multi-environment infra setup using remote backends, workspaces, and modules
+  Scalable multi-environment infra setup using remote backends, workspaces, and terraform modules
 
 - 🔄 **CI/CD Pipeline with Azure Pipelines, GitHub Actions & Bitbucket Pipelines**  
   Automating builds, tests, and Terraform deploys with approvals and staging
