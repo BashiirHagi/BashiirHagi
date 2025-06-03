@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bashiir 
 
-Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and performant cloud infrastructure following recognised design principles. Strong professional & technical experience in the Media and Tech consulting industries. 
+Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about building scalable, reliable and high performing cloud infrastructure following industry recognised design principles. Strong professional & technical experience in the Media and Tech consulting sectors. 
 
 ---
 
@@ -12,18 +12,7 @@ Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about buildin
 - **CI/CD**: Azure Pipelines, GitHub Actions, Bitbucket pipelines & automated workflows
 - **Docker & Kubernetes**: Containerization and orchestration
 - **Linux**: System administration & shell scripting
-
----
-
-## 🛠️ Tech Stack: 
-
-- **Cloud**: AWS (IAM, EC2, S3, VPC, Route 53, CloudWatch)
-- **IaC**: Terraform, AWS CloudFormation
-- **Containers**: Docker, Kubernetes (CKA in progress)
-- **Automation**: GitHub Actions, Bash, Python
-- **Systems**: Ubuntu/Debian, SSH, cron, systemd
-- **Tools**: Git, VS Code, tmux, Neovim
-
+  
 ---
 
 ## 🧪 Learning & Building
