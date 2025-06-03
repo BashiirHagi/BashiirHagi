@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **Cloud & DevOps Engineer** passionate about buildin
 🎯 Strong foundation in the follwoing Cloud and DevOps technologies:
 - **AWS**: Core services, IAM, VPC, and Landing Zones
 - **Terraform**: Infrastructure as Code with modules and best practices
-- **CI/CD**: GitHub Actions & automated workflows
+- **CI/CD**: Azure Pipelines, GitHub Actions, Bitbucket pipelines & automated workflows
 - **Docker & Kubernetes**: Containerization and orchestration
 - **Linux**: System administration & shell scripting
 
