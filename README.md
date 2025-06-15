@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about buildin
 ## 🌱 2025 Goals
 
 - Contribute to open-source infrastructure tooling
-- Document & Write exciting blogs/articles for the community
+- Document & Write exciting blogs/articles for the community [medium.com/@BashiirHagi]
 - Stay consistent and keep learning 🔁
 
 ---
