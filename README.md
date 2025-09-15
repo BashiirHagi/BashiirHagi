@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a **Cloud Platform Engineer** passionate about buildin
 
 🎯 Strong foundation in the follwoing Cloud and DevOps technologies:
 - **AWS**: Core services, IAM, VPC, EC2 and Landing Zones
+- - **Azure**: Container Apps, Entra ID (RBAC), OpenAI, Vnets, GenAI
 - **Terraform**: Infrastructure as Code with Terrafirn modules and best practices
 - **CI/CD**: Azure Pipelines, GitHub Actions, Bitbucket pipelines & automated workflows
 - **Docker & Kubernetes**: Containerization and orchestration
